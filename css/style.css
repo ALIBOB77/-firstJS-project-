@@ -1,0 +1,36 @@
+section h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: impact;
+}
+
+section h3{
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Times New Roman";
+}
+
+
+section p{
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Times New Roman";
+}
+
+
+section .btn{
+    padding: 30px 70px;
+    font-size: 13.3333px;
+    background-color: blue;
+    color: white;
+    font-weight: 400;
+    font-family: Arial;
+    
+}
+
+
+
+section .btn:hover{
+    background-color: green;
+    color: white;
+}
